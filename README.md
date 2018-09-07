@@ -1,3 +1,3 @@
-# ADempiere-UI
+# Web-UI
 
-Project for ADempiere Interface
+Project for Interface
